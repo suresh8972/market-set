@@ -30,7 +30,6 @@ NEXUS SETUP COMMANDS : (copy paste these commands one by one)
 =============================================================
 
 yum install java-17-amazon-corretto -y
-
 cd /opt
 wget https://download.sonatype.com/nexus/3/nexus-3.91.0-07-linux-x86_64.tar.gz
 tar -zxvf nexus-3.91.0-07-linux-x86_64.tar.gz
