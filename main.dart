@@ -26,8 +26,8 @@ sed -i '21d' apache-tomcat-9.0.117/webapps/manager/META-INF/context.xml
 sed -i '22d'  apache-tomcat-9.0.117/webapps/manager/META-INF/context.xml
 sh apache-tomcat-9.0.117/bin/startup.sh
 
-NEXUS SETUP COMMANDS : (copy paste these commands one by one)
-=============================================================
+NEXUS SETUP COMMANDS : (copy paste these commands one by one) using artifact that means files ni backup teeyadaniki backup kosam nexus use chestam
+==================================================================================================================================================
 
 yum install java-17-amazon-corretto -y
 cd /opt
